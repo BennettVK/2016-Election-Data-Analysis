@@ -1,0 +1,5 @@
+How to execute the your data_analysis.py file below
+1)Ensure that data_analysis.py is in the same file as clean1.csv, clean2.csv, & clean3.csv.
+2)Navigate the terminal to the folder containing the Python and CSV files.
+3)Run the Python program by entering "python data_analysis.py".
+4)This will return a series of strings and lists as well as three csv exports and three graphic representations of the data. Copies of the exports are already located in the Data Summaries Folder.
