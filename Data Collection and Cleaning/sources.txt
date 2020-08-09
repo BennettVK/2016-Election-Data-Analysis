@@ -1,10 +1,10 @@
 Dataset citation
-	1)	https://doi.org/10.7910/DVN/PSKDUJ/5IBGLT -- House results by precinct for the 2016 election.
+	1)	MIT Election Data and Science Lab, 2018, "2016-precinct-house.tab", U.S. House of Representatives Precinct-Level Returns 2016, https://doi.org/10.7910/DVN/PSKDUJ/5IBGLT, Harvard Dataverse, V11, UNF:6:bfp8ORgdwp2WQ3jM3kSeGw== [fileUNF]
 
-	2)	https://doi.org/10.7910/DVN/VOQCHQ/HEIJCQ -- Presidential results by county for the 2016 election.
+	2)	MIT Election Data and Science Lab, 2018, "countypres_2000-2016.tab", County Presidential Election Returns 2000-2016, https://doi.org/10.7910/DVN/VOQCHQ/HEIJCQ, Harvard Dataverse, V6, UNF:6:ZZe1xuZ5H2l4NUiSRcRf8Q== [fileUNF]
 
-	3)	https://doi.org/10.7910/DVN/NLTQAD/NTYGOO -- Senate results by precinct for the 2016 election.
+	3)	MIT Election Data and Science Lab, 2018, "2016-precinct-senate.tab", U.S. Senate Precinct-Level Returns 2016, https://doi.org/10.7910/DVN/NLTQAD/NTYGOO, Harvard Dataverse, V11, UNF:6:A+p0f16nhvXGTW10ThPX2w== [fileUNF]
 
 
 Citation for code:
-	1)	https://stackoverflow.com/questions/18171739/unicodedecodeerror-when-reading-csv-file-in-pandas-with-python -- Latin 1 encoding error
+	1)	“UnicodeDecodeError When Reading CSV File in Pandas with Python.” Stack Overflow, Jan. 2019, stackoverflow.com/questions/18171739/unicodedecodeerror-when-reading-csv-file-in-pandas-with-python.
