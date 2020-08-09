@@ -1,12 +1,12 @@
 Reference links for writing the analysis code
-1)	https://www.programiz.com/python-programming/methods/list/sort -- advanced sorting technique.
+1)	Albon, Chris. “Making A Matplotlib Scatterplot From A Pandas Dataframe.” Chris Albon, 20 Dec. 2017, chrisalbon.com/python/data_visualization/matplotlib_scatterplot_from_pandas/.
 
-2)	https://www.geeksforgeeks.org/python-perform-append-at-beginning-of-list/ -- inserting a row into the beginning of a list.
+2)  “Box Plot in Python Using Matplotlib.” GeeksforGeeks, 30 Apr. 2020, www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/.
 
-3)	https://www.geeksforgeeks.org/python-math-function-sqrt/ -- the sqrt function
+3)  “Matplotlib.pyplot.savefig.” Matplotlib Documentation, matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.savefig.html.
 
-4)	https://chrisalbon.com/python/data_visualization/matplotlib_scatterplot_from_pandas/ -- scatterplot information
+4)  “Python List Sort().” Programiz, www.programiz.com/python-programming/methods/list/sort.
 
-5)	https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/ -- box plot information
+5)  “Python Math Function: Sqrt().” GeeksforGeeks, 11 Jan. 2018, www.geeksforgeeks.org/python-math-function-sqrt/.
 
-6)	https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.savefig.html -- details on raising the visuals' image quality
+6)  “Python: Perform Append at Beginning of List.” GeeksforGeeks, 30 Nov. 2018, www.geeksforgeeks.org/python-perform-append-at-beginning-of-list/.
