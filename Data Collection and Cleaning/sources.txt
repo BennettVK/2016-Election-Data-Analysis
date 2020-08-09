@@ -1,0 +1,10 @@
+Dataset citation
+	1)	https://doi.org/10.7910/DVN/PSKDUJ/5IBGLT -- House results by precinct for the 2016 election.
+
+	2)	https://doi.org/10.7910/DVN/VOQCHQ/HEIJCQ -- Presidential results by county for the 2016 election.
+
+	3)	https://doi.org/10.7910/DVN/NLTQAD/NTYGOO -- Senate results by precinct for the 2016 election.
+
+
+Citation for code:
+	1)	https://stackoverflow.com/questions/18171739/unicodedecodeerror-when-reading-csv-file-in-pandas-with-python -- Latin 1 encoding error
